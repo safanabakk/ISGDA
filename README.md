@@ -12,6 +12,6 @@
 
   
 # Content
-This repository includes the data and source code to produce scores using:
+This repository includes the data (in data.zip) and source code (in src.zip) to produce scores using:
 - Direct GDA ranking
 - BMA-based GDA ranking
