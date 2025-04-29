@@ -14,4 +14,4 @@
 # Content
 This repository includes the data and source code to produce scores using:
 - Direct GDA ranking
-- BAA-based GDA ranking
+- BMA-based GDA ranking
