@@ -1,6 +1,6 @@
 # ISGDA Overview
 - We created an inductive, supervised method of rare disease diagnosis using knowledge-enhanced learning.
-- This method is based on the phenotype ontology (Upheno).
+- This method is inherently inductive as it is based on the phenotype ontology (Upheno).
 - It is a ranking approach that produces scores for gene-disease associations. Therefore, for our query 'D', 'G' is ranked. 
 
 # Dependencies
