@@ -5,10 +5,12 @@
 
 # Dependencies
 - The code uses the mOWL library (requires JAVA and JDK installed)
-- Python version: 3.10.16
-- mOWL version: 1.0.1
-- PyKEEN version: 1.11.0
-- Class Resolver version: 0.5.4
+- Python==3.10.16
+- mOWL==1.0.1
+- PyKEEN==1.11.0
+- Class Resolver==0.5.4
+- Scipy==1.13.1
+- Numpy==1.26.4
 
   
 # Content
