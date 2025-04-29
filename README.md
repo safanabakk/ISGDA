@@ -12,4 +12,6 @@
 
   
 # Content
-This repository includes the data, method, and result files of ISGDA
+This repository includes the data and source code to produce scores using:
+- Direct GDA ranking
+- BAA-based GDA ranking
