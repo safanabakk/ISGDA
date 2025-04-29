@@ -1,5 +1,7 @@
 # ISGDA Overview
-We created an inductive, supervised method of rare disease diagnosis. This method is based on phenotype ontologies.
+- We created an inductive, supervised method of rare disease diagnosis.
+- This method is based on the phenotype ontology (Upheno).
+- It is a ranking approach that produces scores for gene-disease associations. Therefore, for our query 'D', 'G' is ranked. 
 
 # Dependencies
 - The code uses the mOWL library (requires JAVA and JDK installed)
