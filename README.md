@@ -4,7 +4,7 @@
 - A supervised signal (in Graph 4) is applied, to ensure that the performance is best. This signal tells the model what it needs to learn, rather than leaving it to guess what is important.
 - It is a ranking approach that produces scores for gene-disease associations. Therefore, for our query 'D', 'G' is ranked.
 
-#Main ontology used
+# Main ontology used (for cross-species phenotypic mapping)
 
 Upheno (https://github.com/obophenotype/upheno.git)
 
