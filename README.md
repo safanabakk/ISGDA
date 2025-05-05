@@ -24,5 +24,3 @@ This repository includes the data (general.zip, graph structures.zip, and embedd
 - Direct GDA ranking
 - BMA-based GDA ranking
 
-  # Content Details
-  - general.zip: has the MGI
