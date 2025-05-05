@@ -17,9 +17,12 @@ Upheno (https://github.com/obophenotype/upheno.git)
 - Class Resolver==0.5.4
 - Scipy==1.13.1
 - Numpy==1.26.4
-
+  
   
 # Content
-This repository includes the data (in data.zip) and source code (in src.zip) to produce scores using:
+This repository includes the data (general.zip, graph structures.zip, and embeddings.zip) and source code (in src.zip) to produce scores using:
 - Direct GDA ranking
 - BMA-based GDA ranking
+
+  # Content Details
+  - general.zip: has the MGI
